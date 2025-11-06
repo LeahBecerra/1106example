@@ -1,0 +1,24 @@
+
+#headline {
+	background-color: lightblue;
+	color: darkgreen;
+	padding: 30px;
+	text-align: center;
+}
+
+#headline2 {
+	background-color: darkred;
+	color: pink;
+	padding: 30px;
+	text-align: center;
+}
+
+.listname {
+	margin: 20px;
+}
+
+.city {
+	background-color: dimgrey;
+	color: white;
+	padding: 10px;
+}
